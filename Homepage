@@ -1,48 +1,44 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <title>"My "Hello, World!" page</title>
+    <title>"Fashion's Tile" page</title>
     <link rel="stylesheet" href="style.css">
     <meta name="viewpoint" content="width=device-width, initial scale=1">
   </head>
   <body>
     <header>
       <div class="container">
-        <h1 id="site-title"> Hello, World!</h1>
+        <h1 id="site-title"> FashionsTile.com</h1>
       </div>
       <nav>
         <ul>
-          <li><a href="exercise09.html">Home</a></li>
-          <li><a href="exercise02.html">Exercise 02</a></li>
-          <li><a href="exercise03.html">Exercise 03</a></li>
-          <li><a target="_blank"href="https://digitalsynopsis.com/wp-content/uploads/2016/12/http-status-codes-dogs.jpg">More Exercises</a></li>
+          <li><a href="homepage.html">Home</a></li>
+          <li><a href="exercise02.html">Women</a></li>
+          <li><a href="exercise03.html">Men</a></li>
+          <li><a target="_blank"href="https://digitalsynopsis.com/wp-content/uploads/2016/12/http-status-codes-dogs.jpg">More Information</a></li>
         </ul>
       </nav>
     </header>
     <article>
       <h1 id="article-title">Main Article Title</h1>
       <p id="first-article">
-        The "Hello World" code is usually the first standard code an
-        individual would start with. When programmers are first introduced to a
-        programming language, they are usually given an initial sample of the
-        language in the form of a very short and simple program. The usual
-        output of this sample program is the character string "Hello World"
-        displayed on the screen. As such, the program itself is also known as
-        Hello World. In some tutorials, the succeeding text will then explain
-        some of the code used for the Hello World program to give the aspiring
-        programmer a foretaste of things to come.
+        Fashion's a popular way of dressing during a particular time or among a
+        particular group of people. We strive to recommend the best style for
+        what fits you.
       </p>
       <figure class="main-image">
-        <img src="https://www.nsha.org/wp-content/uploads/2017/06/computer-coding-600x600.jpg">
-          <figcaption> Above is a coding image.
+        <img src="https://i.pinimg.com/736x/a3/c0/27/a3c027d8a4ca5b9f01c8217756e11f61--male-fashion-bloggers-male-fashion-designers.jpg">
+          <figcaption> Men's Clothing Online Sale
           </figcaption>
       </figure>
       <div class="small-container">
       <p id="second-article">
-        Coding is a list of step-by-step instructions that get computers to
-        do what you want them to do. Coding makes it possible for us to create
-        computer software, games, apps and websites. Coders, or programmers, are
-        people who write the programmes behind everything we see and do on a computer.
+        Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
+        tempor incididunt ut labore et dolore magna aliqua. Ac odio tempor orci
+        dapibus ultrices. In nulla posuere sollicitudin aliquam. Quisque non
+        tellus orci ac auctor augue mauris augue. Ante in nibh mauris cursus
+        mattis molestie a iaculis at. Cras ornare arcu dui vivamus arcu felis
+        bibendum ut tristique. In est ante in nibh.
       </p>
       <h2 id="second-article-title">Another Article Title</h2>
       <p> Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
@@ -57,27 +53,26 @@
         <img src="https://cdn.kenzie.academy/wp-content/uploads/prod/2021/01/05092505/AdobeStock_234092554-1400x935.jpeg">
       </figure>
       <p id="third-article">
-        Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-        accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab
-        illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.
-        Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit,
-        sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt.
-        Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur,
-        adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore
-        et dolore magnam aliquam quaerat voluptatem. Ut enim ad minima veniam,
-        quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut
-        aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit
-        qui in ea voluptate velit esse quam nihil molestiae consequatur, vel illum
-        qui dolorem eum fugiat quo voluptas nulla pariatur?
+        Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
+        tempor incididunt ut labore et dolore magna aliqua. Ullamcorper malesuada
+        proin libero nunc. Sit amet aliquam id diam maecenas. Risus in hendrerit
+        gravida rutrum quisque non tellus orci ac. Rutrum tellus pellentesque eu
+        tincidunt tortor aliquam nulla. Phasellus egestas tellus rutrum tellus
+        pellentesque eu tincidunt. Ac turpis egestas integer eget aliquet nibh.
+        Risus pretium quam vulputate dignissim suspendisse in est ante. Amet
+        luctus venenatis lectus magna fringilla urna porttitor rhoncus. Erat
+        pellentesque adipiscing commodo elit at imperdiet dui accumsan. Mauris
+        rhoncus aenean vel elit scelerisque mauris pellentesque pulvinar pellentesque.
+        Nulla porttitor massa id neque aliquam vestibulum morbi blandit cursus.
       </p>
     </div>
       <footer id="page-footer">
-        <p id="copyright"> Copyright 2021 </p>
+        <p id="copyright"> Copyright 2022 </p>
           <nav>
             <ul>
               <li><a href="exercise09.html">Home</a></li>
-              <li><a href="exercise02.html">Exercise 02</a></li>
-              <li><a href="exercise03.html">Exercise 03</a></li>
+              <li><a href="exercise02.html">Women</a></li>
+              <li><a href="exercise03.html">Men</a></li>
               <li><a target="_blank"href="https://digitalsynopsis.com/wp-content/uploads/2016/12/http-status-codes-dogs.jpg">More Exercises</a></li>
           </ul>
         </footer>
