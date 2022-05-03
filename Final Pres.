@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html> 
+  <head>
+    <title>"Avatar: Element Bending" page</title>
+    <link rel="stylesheet" href="style.css">
+    <meta name="viewpoint" content="width=device-width, initial scale=1">
+  </head>
+  <body>
+    <header>
+      <div class="container">
+        <h1 id="site-title"> Element Bending </h1>
+      </div>
+      <nav>
+        <ul>
+          <li><a href="final.html">Home</a></li>
+          <li><a href="air.html">Air</a></li>
+          <li><a href="water.html">Water</a></li>
+          <li><a href="earth.html">Earth</a></li>
+          <li><a href="fire.html">Fire</a></li>
+          <li><a target="_blank"href="https://youtu.be/fbmD5XUiOgo">Sub-Elements</a></li>
+        </ul>
+      </nav>
+    </header>
+    <article>
+      <h1 id="article-title">What is element bending?</h1>
+      <p id="first-article">
+        There are four major elements: air, water, earth, and fire. Each is unique
+        yet they are all connected. Throughout this site you will be introduced
+        to each one. Please note, this is only an introduction. You will need to
+        find a master on your own.
+      </p>
+      <figure class="main-image">
+        <img src="https://static0.cbrimages.com/wordpress/wp-content/uploads/2020/05/Avatar-The-Last-Airbender-Aang-Avatar-State.jpg?q=50&fit=crop&w=960&h=500&dpr=1.5">
+          <figcaption> Avatar Aang: The Last Airbender.
+          </figcaption>
+      </figure>
+      <div class="small-container">
+      <p id="second-article">
+      </p>
+      <h2 id="second-article-title">Mastering your element.</h2>
+      <p> Not everyone is born with the capability to bend an element. There are
+      many warriors and fighters that are highly skilled and can defeat an element
+      bender. Please be sure to continue your training and master your element.
+      For some it will be quick to learn, for others it might take up to years.
+      </p>
+      <h3 id="third-article-title">The Avatar</h3>
+      <figure class="section-image">
+        <img src="https://www.indiewire.com/wp-content/uploads/2020/05/korra-backlash.png">
+        <figcaption> Avatar Korra.
+        </figcaption>
+      </figure>
+      <p id="third-article">
+        If you thought mastering one element was hard, the Avatar must master
+        all four elements. They are the only being able to bend all four elements.
+        The Avatar is reincarnated after the next. Avatar Aang was the last airbender
+        during his time. Following his legacy was Avatar Korra. Both Avatars had
+        learned and mastered all four elements, just as the Avatars before them
+        have.
+      </p>
+    </div>
+      <footer id="page-footer">
+        <p id="copyright"> Copyright 2021 </p>
+          <nav>
+            <ul>
+              <li><a href="final.html">Home</a></li>
+              <li><a href="air.html">Air</a></li>
+              <li><a href="water.html">Water</a></li>
+              <li><a href="earth.html">Earth</a></li>
+              <li><a href="fire.html">Fire</a></li>
+              <li><a target="_blank"href="https://youtu.be/fbmD5XUiOgo">Sub-Elements</a></li>
+          </ul>
+        </footer>
+  </article>
+  </body>
+</html>
