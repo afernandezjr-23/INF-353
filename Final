@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>"Fashion's Tile" page</title>
+    <link rel="stylesheet" href="style.css">
+    <meta name="viewpoint" content="width=device-width, initial scale=1">
+  </head>
+  <body>
+    <header>
+      <div class="container">
+        <h1 id="site-title"> FashionsTile.com </h1>
+      </div>
+      <nav>
+        <ul>
+          <li><a href="homepage.html">Home</a></li>
+          <li><a href="exercise02.html">Women</a></li>
+          <li><a href="exercise03.html">Men</a></li>
+          <li><a target="_blank"href="https://digitalsynopsis.com/wp-content/uploads/2016/12/http-status-codes-dogs.jpg">More Information</a></li>
+        </ul>
+      </nav>
+    </header>
+    <article>
+      <h1 id="article-title"> Fashion Focus </h1>
+      <p id="first-article">
+        Fashion's a popular way of dressing during a particular time or among a
+        particular group of people. We strive to recommend the best style for
+        what fits you. Fashion has the ability to change and shape lives through
+        its personal connection to us all. We all have to wear clothes and every
+        piece of clothing we buy represents a personal choice – it is this
+        intrinsically human relationship between us and our fashion that makes
+        it political.
+      </p>
+      <figure class="main-image">
+        <img src="https://i.pinimg.com/736x/a3/c0/27/a3c027d8a4ca5b9f01c8217756e11f61--male-fashion-bloggers-male-fashion-designers.jpg">
+          <figcaption> Men's Clothing
+          </figcaption>
+      </figure>
+      <div class="small-container">
+      <p id="second-article">
+      </p>
+      <h2 id="second-article-title"> Fashion Icon </h2>
+      <p> Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
+      tempor incididunt ut labore et dolore magna aliqua. Ac odio tempor orci
+      dapibus ultrices. In nulla posuere sollicitudin aliquam. Quisque non
+      tellus orci ac auctor augue mauris augue. Ante in nibh mauris cursus
+      mattis molestie a iaculis at. Cras ornare arcu dui vivamus arcu felis
+      bibendum ut tristique. In est ante in nibh.
+      </p>
+      <h3 id="third-article-title"> Snapshot </h3>
+      <figure class="section-image">
+        <img src="https://cdn.kenzie.academy/wp-content/uploads/prod/2021/01/05092505/AdobeStock_234092554-1400x935.jpe">
+        <figcaption> In Style
+        </figcaption>
+      </figure>
+      <p id="third-article">
+      <p> Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
+      tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
+      quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+      Duis aute irure dolor in reprehenderit in voluptate velit esse cillum
+      dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
+      proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
+      tempor incididunt ut labore et dolore magna aliqua. Ullamcorper malesuada
+      proin libero nunc. Sit amet aliquam id diam maecenas. Risus in hendrerit
+      gravida rutrum quisque non tellus orci ac. Rutrum tellus pellentesque eu
+      tincidunt tortor aliquam nulla. Phasellus egestas tellus rutrum tellus
+      pellentesque eu tincidunt. Ac turpis egestas integer eget aliquet nibh.
+      Risus pretium quam vulputate dignissim suspendisse in est ante. Amet
+      luctus venenatis lectus magna fringilla urna porttitor rhoncus. Erat
+      pellentesque adipiscing commodo elit at imperdiet dui accumsan. Mauris
+      rhoncus aenean vel elit scelerisque mauris pellentesque pulvinar pellentesque.
+      Nulla porttitor massa id neque aliquam vestibulum morbi blandit cursus.
+      </p>
+    </div>
+      <footer id="page-footer">
+        <p id="copyright"> Copyright 2021 </p>
+          <nav>
+            <ul>
+              <li><a href="homepage.html">Home</a></li>
+              <li><a href="women.html">Women</a></li>
+              <li><a href="men.html">Men</a></li>
+              <li><a target="_blank"href="https://digitalsynopsis.com/wp-content/uploads/2016/12/http-status-codes-dogs.jpg">More Information</a></li>
+            </ul>
+        </footer>
+  </article>
+  </body>
+</html>
